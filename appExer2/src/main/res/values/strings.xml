@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">U4T6ContentProvider</string>
+    <string name="empty_list">No contacts available</string>
+    <string name="contacts_read_right_required">APPLICATION NEEDS READING RIGHTS TO CONTACTS</string>
+</resources>

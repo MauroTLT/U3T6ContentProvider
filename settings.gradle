@@ -1,0 +1,2 @@
+include ':app', ':appExer1', ':appExer2'
+rootProject.name='U4T6ContentProvider'
